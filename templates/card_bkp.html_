@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Flashcard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
+    <script>
+        function showMeaning() {
+            document.getElementById("meaning").style.display = "block";
+            document.getElementById("showMeaningBtn").style.display = "none";
+            document.getElementById("exampleBtn").style.display = "inline-block";
+        }
+
+        function showExample() {
+            document.getElementById("example").style.display = "block";
+            document.getElementById("exampleBtn").style.display = "none";
+        }
+
+		function playAudio(word) {
+			let encodedWord = encodeURIComponent(word);
+
+			let url = "https://translate.google.com/translate_tts?ie=UTF-8&q=" 
+					  + encodedWord + "&tl=de&client=tw-ob";
+
+			let audio = new Audio();
+			audio.src = url;
+			audio.load();
+
+			audio.play().catch(err => {
+				console.log("Audio blocked:", err);
+				alert("Click anywhere on the page once, then try again.");
+			});
+		}
+    </script>
+</head>
+<body>
+
+<div class="container">
+    <div class="card">
+
+        <p><b>Level:</b> {{ level }} | <b>Set:</b> {{ set_name }}</p>
+
+        <h2>{{ card.word }}</h2>
+        <p><i>{{ card.type }}</i></p>
+
+        <!-- 🔊 AUDIO BUTTON -->
+        <button onclick="playAudio('{{ card.word }}')" class="show-btn">
+            🔊 Listen
+        </button>
+
+        <!-- Meaning -->
+        <button id="showMeaningBtn" class="show-btn" onclick="showMeaning()">
+            Show Meaning
+        </button>
+
+        <p id="meaning" style="display:none;">
+            <b>{{ card.meaning }}</b>
+        </p>
+
+        <!-- Example -->
+        {% if card.example %}
+        <button id="exampleBtn" class="show-btn" style="display:none;" onclick="showExample()">
+            Show Example
+        </button>
+
+        <p id="example" style="display:none;">
+            {{ card.example }}
+        </p>
+        {% endif %}
+
+        <form method="post">
+            <button class="know" name="result" value="know">I knew it</button>
+            <button class="dont" name="result" value="dont">I didn’t know</button>
+        </form>
+
+        <p>Remaining: {{ remaining }}</p>
+
+    </div>
+</div>
+
+</body>
+</html>

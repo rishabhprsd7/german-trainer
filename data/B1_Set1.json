@@ -1,0 +1,162 @@
+[
+  {
+    "word": "vermeiden",
+    "meaning": "to avoid",
+    "type": "verb",
+    "example": "Ich versuche, Fehler zu vermeiden.",
+    "perfect": "hat vermieden",
+    "reflexive": null
+  },
+  {
+    "word": "erreichen",
+    "meaning": "to achieve",
+    "type": "verb",
+    "example": "Ich möchte mein Ziel erreichen.",
+    "perfect": "hat erreicht",
+    "reflexive": null
+  },
+  {
+    "word": "entwickeln",
+    "meaning": "to develop",
+    "type": "verb",
+    "example": "Wir entwickeln neue Ideen.",
+    "perfect": "hat entwickelt",
+    "reflexive": null
+  },
+  {
+    "word": "vergleichen",
+    "meaning": "to compare",
+    "type": "verb",
+    "example": "Ich vergleiche die Preise.",
+    "perfect": "hat verglichen",
+    "reflexive": null
+  },
+  {
+    "word": "unterstützen",
+    "meaning": "to support",
+    "type": "verb",
+    "example": "Ich unterstütze mein Team.",
+    "perfect": "hat unterstützt",
+    "reflexive": null
+  },
+  {
+    "word": "beschreiben",
+    "meaning": "to describe",
+    "type": "verb",
+    "example": "Er beschreibt das Problem.",
+    "perfect": "hat beschrieben",
+    "reflexive": null
+  },
+  {
+    "word": "erklären",
+    "meaning": "to explain",
+    "type": "verb",
+    "example": "Der Lehrer erklärt die Aufgabe.",
+    "perfect": "hat erklärt",
+    "reflexive": null
+  },
+  {
+    "word": "organisieren",
+    "meaning": "to organize",
+    "type": "verb",
+    "example": "Ich organisiere ein Treffen.",
+    "perfect": "hat organisiert",
+    "reflexive": null
+  },
+  {
+    "word": "planen",
+    "meaning": "to plan",
+    "type": "verb",
+    "example": "Wir planen eine Reise.",
+    "perfect": "hat geplant",
+    "reflexive": null
+  },
+  {
+    "word": "benutzen",
+    "meaning": "to use",
+    "type": "verb",
+    "example": "Ich benutze mein Handy.",
+    "perfect": "hat benutzt",
+    "reflexive": null
+  },
+  {
+    "word": "Meinung",
+    "meaning": "opinion",
+    "type": "noun",
+    "example": "Das ist meine Meinung.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Erfahrung",
+    "meaning": "experience",
+    "type": "noun",
+    "example": "Ich habe viel Erfahrung.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Problem",
+    "meaning": "problem",
+    "type": "noun",
+    "example": "Das ist ein großes Problem.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Lösung",
+    "meaning": "solution",
+    "type": "noun",
+    "example": "Wir finden eine Lösung.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Idee",
+    "meaning": "idea",
+    "type": "noun",
+    "example": "Ich habe eine gute Idee.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Projekt",
+    "meaning": "project",
+    "type": "noun",
+    "example": "Das Projekt ist interessant.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Zeit",
+    "meaning": "time",
+    "type": "noun",
+    "example": "Ich habe wenig Zeit.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Arbeit",
+    "meaning": "work",
+    "type": "noun",
+    "example": "Die Arbeit ist schwer.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Team",
+    "meaning": "team",
+    "type": "noun",
+    "example": "Das Team arbeitet gut.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Ziel",
+    "meaning": "goal",
+    "type": "noun",
+    "example": "Mein Ziel ist klar.",
+    "perfect": null,
+    "reflexive": null
+  }
+]

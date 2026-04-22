@@ -1,0 +1,226 @@
+[
+  {
+    "word": "Stelle",
+    "meaning": "position post",
+    "type": "noun",
+    "example": "Die Stelle ist noch offen.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Probezeit",
+    "meaning": "probation period",
+    "type": "noun",
+    "example": "Die Probezeit dauert drei Monate.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Arbeitsvertrag",
+    "meaning": "employment contract",
+    "type": "noun",
+    "example": "Ich unterschreibe den Arbeitsvertrag.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Überstunde",
+    "meaning": "overtime hour",
+    "type": "noun",
+    "example": "Ich mache heute eine Überstunde.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Fortbildung",
+    "meaning": "further training",
+    "type": "noun",
+    "example": "Die Fortbildung ist nächste Woche.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Präsentation",
+    "meaning": "presentation",
+    "type": "noun",
+    "example": "Die Präsentation war sehr gut.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Bewerbungsgespräch",
+    "meaning": "job interview",
+    "type": "noun",
+    "example": "Das Bewerbungsgespräch ist am Freitag.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Verantwortung",
+    "meaning": "responsibility",
+    "type": "noun",
+    "example": "Die Stelle hat viel Verantwortung.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Arbeitsplatz",
+    "meaning": "workplace workstation",
+    "type": "noun",
+    "example": "Mein Arbeitsplatz ist modern.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Berufserfahrung",
+    "meaning": "work experience",
+    "type": "noun",
+    "example": "Berufserfahrung ist sehr wichtig.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Arbeitszeit",
+    "meaning": "working hours",
+    "type": "noun",
+    "example": "Meine Arbeitszeit ist flexibel.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Urlaubstag",
+    "meaning": "vacation day",
+    "type": "noun",
+    "example": "Ich nehme morgen einen Urlaubstag.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Kenntnisse",
+    "meaning": "knowledge skills",
+    "type": "noun",
+    "example": "Ich habe gute EDV-Kenntnisse.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Bericht",
+    "meaning": "report",
+    "type": "noun",
+    "example": "Ich schreibe einen Bericht.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Arbeitgeber",
+    "meaning": "employer",
+    "type": "noun",
+    "example": "Der Arbeitgeber bietet viele Vorteile.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "sich bewerben",
+    "meaning": "to apply for a job",
+    "type": "verb",
+    "example": "Ich bewerbe mich um die Stelle.",
+    "perfect": "hat sich beworben",
+    "reflexive": "sich"
+  },
+  {
+    "word": "kündigen",
+    "meaning": "to resign terminate",
+    "type": "verb",
+    "example": "Er möchte seinen Job kündigen.",
+    "perfect": "hat gekündigt",
+    "reflexive": null
+  },
+  {
+    "word": "einstellen",
+    "meaning": "to hire",
+    "type": "verb",
+    "example": "Die Firma stellt neue Leute ein.",
+    "perfect": "hat eingestellt",
+    "reflexive": null
+  },
+  {
+    "word": "vorbereiten",
+    "meaning": "to prepare",
+    "type": "verb",
+    "example": "Ich bereite die Präsentation vor.",
+    "perfect": "hat vorbereitet",
+    "reflexive": null
+  },
+  {
+    "word": "vertreten",
+    "meaning": "to cover for represent",
+    "type": "verb",
+    "example": "Ich vertrete meine Kollegin.",
+    "perfect": "hat vertreten",
+    "reflexive": null
+  },
+  {
+    "word": "erledigen",
+    "meaning": "to complete a task",
+    "type": "verb",
+    "example": "Ich erledige die Aufgabe heute.",
+    "perfect": "hat erledigt",
+    "reflexive": null
+  },
+  {
+    "word": "verbessern",
+    "meaning": "to improve",
+    "type": "verb",
+    "example": "Ich verbessere meine Kenntnisse.",
+    "perfect": "hat verbessert",
+    "reflexive": null
+  },
+  {
+    "word": "kontrollieren",
+    "meaning": "to check control",
+    "type": "verb",
+    "example": "Sie kontrolliert den Bericht.",
+    "perfect": "hat kontrolliert",
+    "reflexive": null
+  },
+  {
+    "word": "verhandeln",
+    "meaning": "to negotiate",
+    "type": "verb",
+    "example": "Wir verhandeln über das Gehalt.",
+    "perfect": "hat verhandelt",
+    "reflexive": null
+  },
+  {
+    "word": "einreichen",
+    "meaning": "to submit",
+    "type": "verb",
+    "example": "Ich reiche den Bericht ein.",
+    "perfect": "hat eingereicht",
+    "reflexive": null
+  },
+  {
+    "word": "selbstständig",
+    "meaning": "independent self-employed",
+    "type": "adjective",
+    "example": "Er arbeitet selbstständig.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "beruflich",
+    "meaning": "professional work-related",
+    "type": "adjective",
+    "example": "Ich reise beruflich nach München.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "flexibel",
+    "meaning": "flexible",
+    "type": "adjective",
+    "example": "Meine Arbeitszeit ist flexibel.",
+    "perfect": null,
+    "reflexive": null
+  }
+]

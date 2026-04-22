@@ -1,0 +1,162 @@
+[
+  {
+    "word": "teilnehmen",
+    "meaning": "to participate",
+    "type": "verb",
+    "example": "Ich nehme am Meeting teil.",
+    "perfect": "hat teilgenommen",
+    "reflexive": null
+  },
+  {
+    "word": "vorbereiten",
+    "meaning": "to prepare",
+    "type": "verb",
+    "example": "Ich bereite die Präsentation vor.",
+    "perfect": "hat vorbereitet",
+    "reflexive": null
+  },
+  {
+    "word": "erkennen",
+    "meaning": "to recognize",
+    "type": "verb",
+    "example": "Ich erkenne ihn sofort.",
+    "perfect": "hat erkannt",
+    "reflexive": null
+  },
+  {
+    "word": "verlassen",
+    "meaning": "to leave",
+    "type": "verb",
+    "example": "Ich verlasse das Büro um 17 Uhr.",
+    "perfect": "hat verlassen",
+    "reflexive": null
+  },
+  {
+    "word": "bieten",
+    "meaning": "to offer",
+    "type": "verb",
+    "example": "Die Firma bietet viele Vorteile.",
+    "perfect": "hat geboten",
+    "reflexive": null
+  },
+  {
+    "word": "gehören",
+    "meaning": "to belong",
+    "type": "verb",
+    "example": "Das gehört mir.",
+    "perfect": "hat gehört",
+    "reflexive": null
+  },
+  {
+    "word": "bestehen",
+    "meaning": "to exist pass",
+    "type": "verb",
+    "example": "Ich bestehe die Prüfung.",
+    "perfect": "hat bestanden",
+    "reflexive": null
+  },
+  {
+    "word": "verlangen",
+    "meaning": "to demand",
+    "type": "verb",
+    "example": "Der Kunde verlangt Qualität.",
+    "perfect": "hat verlangt",
+    "reflexive": null
+  },
+  {
+    "word": "erhalten",
+    "meaning": "to receive",
+    "type": "verb",
+    "example": "Ich erhalte eine E-Mail.",
+    "perfect": "hat erhalten",
+    "reflexive": null
+  },
+  {
+    "word": "verbringen",
+    "meaning": "to spend time",
+    "type": "verb",
+    "example": "Ich verbringe Zeit mit Familie.",
+    "perfect": "hat verbracht",
+    "reflexive": null
+  },
+  {
+    "word": "Entscheidung",
+    "meaning": "decision",
+    "type": "noun",
+    "example": "Das ist eine wichtige Entscheidung.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Möglichkeit",
+    "meaning": "possibility",
+    "type": "noun",
+    "example": "Es gibt viele Möglichkeiten.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Beispiel",
+    "meaning": "example",
+    "type": "noun",
+    "example": "Das ist ein gutes Beispiel.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Unterschied",
+    "meaning": "difference",
+    "type": "noun",
+    "example": "Der Unterschied ist groß.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Grund",
+    "meaning": "reason",
+    "type": "noun",
+    "example": "Das ist der Grund.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Erfolg",
+    "meaning": "success",
+    "type": "noun",
+    "example": "Der Erfolg ist wichtig.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Versuch",
+    "meaning": "attempt",
+    "type": "noun",
+    "example": "Das ist mein erster Versuch.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Vertrag",
+    "meaning": "contract",
+    "type": "noun",
+    "example": "Ich unterschreibe den Vertrag.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Beruf",
+    "meaning": "profession",
+    "type": "noun",
+    "example": "Mein Beruf ist interessant.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Firma",
+    "meaning": "company",
+    "type": "noun",
+    "example": "Die Firma wächst schnell.",
+    "perfect": null,
+    "reflexive": null
+  }
+]

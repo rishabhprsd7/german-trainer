@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<div class="container">
+    <div class="card">
+
+        <h2>📊 Learning Dashboard</h2>
+
+        <p><b>Total Words:</b> {{ total }}</p>
+
+        <br>
+
+        <!-- MASTERED -->
+        <p><b>🟢 Mastered:</b> {{ mastered }}</p>
+        <div class="progress-bar">
+            <div class="progress-fill" style="width: {{ (mastered / total * 100) if total > 0 else 0 }}%; background:#4CAF50;"></div>
+        </div>
+
+        <br>
+
+        <!-- LEARNING -->
+        <p><b>🟡 Learning:</b> {{ learning }}</p>
+        <div class="progress-bar">
+            <div class="progress-fill" style="width: {{ (learning / total * 100) if total > 0 else 0 }}%; background:#ff9800;"></div>
+        </div>
+
+        <br>
+
+        <!-- DIFFICULT -->
+        <p><b>🔴 Difficult:</b> {{ difficult }}</p>
+        <div class="progress-bar">
+            <div class="progress-fill" style="width: {{ (difficult / total * 100) if total > 0 else 0 }}%; background:#f44336;"></div>
+        </div>
+
+        <br><br>
+
+        <h3>✅ Completed Sets</h3>
+
+        {% if completed_sets %}
+        <ul>
+            {% for s in completed_sets %}
+                <li>{{ s }}</li>
+            {% endfor %}
+        </ul>
+        {% else %}
+            <p>No sets completed yet</p>
+        {% endif %}
+
+        <br><br>
+
+		<br><br>
+		<a href="/">
+			<button class="show-btn">⬅ Back to Home</button>
+		</a>
+
+    </div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,226 @@
+[
+  {
+    "word": "Tarifvertrag",
+    "meaning": "collective bargaining agreement",
+    "type": "noun",
+    "example": "Der Tarifvertrag regelt die Löhne.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Kündigungsfrist",
+    "meaning": "notice period",
+    "type": "noun",
+    "example": "Die Kündigungsfrist beträgt drei Monate.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Gewerkschaft",
+    "meaning": "trade union",
+    "type": "noun",
+    "example": "Er ist Mitglied der Gewerkschaft.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Leistungsbewertung",
+    "meaning": "performance appraisal",
+    "type": "noun",
+    "example": "Die Leistungsbewertung findet jährlich statt.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Arbeitsunfähigkeit",
+    "meaning": "incapacity for work",
+    "type": "noun",
+    "example": "Bei Arbeitsunfähigkeit braucht man ein Attest.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Arbeitsgenehmigung",
+    "meaning": "work permit",
+    "type": "noun",
+    "example": "Für den Job brauche ich eine Arbeitsgenehmigung.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Mutterschutz",
+    "meaning": "maternity protection",
+    "type": "noun",
+    "example": "Der Mutterschutz beginnt vor der Geburt.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Elternzeit",
+    "meaning": "parental leave",
+    "type": "noun",
+    "example": "Sie ist gerade in Elternzeit.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Selbstständigkeit",
+    "meaning": "self-employment",
+    "type": "noun",
+    "example": "Selbstständigkeit bringt Freiheit und Risiko.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Arbeitslosigkeit",
+    "meaning": "unemployment",
+    "type": "noun",
+    "example": "Die Arbeitslosigkeit ist gestiegen.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Arbeitnehmerrechte",
+    "meaning": "employee rights",
+    "type": "noun",
+    "example": "Die Gewerkschaft schützt die Arbeitnehmerrechte.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Betriebsrat",
+    "meaning": "works council",
+    "type": "noun",
+    "example": "Der Betriebsrat vertritt die Interessen der Mitarbeiter.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Abfindung",
+    "meaning": "severance pay",
+    "type": "noun",
+    "example": "Er bekommt eine Abfindung nach der Kündigung.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Insolvenz",
+    "meaning": "insolvency bankruptcy",
+    "type": "noun",
+    "example": "Die Firma meldete Insolvenz an.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Burnout",
+    "meaning": "burnout",
+    "type": "noun",
+    "example": "Zu viel Stress kann zu Burnout führen.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "einarbeiten",
+    "meaning": "to onboard train a new employee",
+    "type": "verb",
+    "example": "Die Kollegin arbeitet mich sorgfältig ein.",
+    "perfect": "hat eingearbeitet",
+    "reflexive": null
+  },
+  {
+    "word": "sich durchsetzen",
+    "meaning": "to assert oneself",
+    "type": "verb",
+    "example": "Im Beruf muss man sich manchmal durchsetzen.",
+    "perfect": "hat sich durchgesetzt",
+    "reflexive": "sich"
+  },
+  {
+    "word": "berücksichtigen",
+    "meaning": "to take into consideration",
+    "type": "verb",
+    "example": "Bitte berücksichtigen Sie meine Erfahrung.",
+    "perfect": "hat berücksichtigt",
+    "reflexive": null
+  },
+  {
+    "word": "nachweisen",
+    "meaning": "to prove document",
+    "type": "verb",
+    "example": "Sie muss die Qualifikationen nachweisen.",
+    "perfect": "hat nachgewiesen",
+    "reflexive": null
+  },
+  {
+    "word": "vereinbaren",
+    "meaning": "to arrange agree upon",
+    "type": "verb",
+    "example": "Wir vereinbaren einen neuen Termin.",
+    "perfect": "hat vereinbart",
+    "reflexive": null
+  },
+  {
+    "word": "überzeugen",
+    "meaning": "to convince",
+    "type": "verb",
+    "example": "Sie überzeugt im Vorstellungsgespräch.",
+    "perfect": "hat überzeugt",
+    "reflexive": null
+  },
+  {
+    "word": "beitreten",
+    "meaning": "to join an organization",
+    "type": "verb",
+    "example": "Er möchte der Gewerkschaft beitreten.",
+    "perfect": "ist beigetreten",
+    "reflexive": null
+  },
+  {
+    "word": "zurücktreten",
+    "meaning": "to step down",
+    "type": "verb",
+    "example": "Die Führungskraft tritt von der Position zurück.",
+    "perfect": "ist zurückgetreten",
+    "reflexive": null
+  },
+  {
+    "word": "ausgleichen",
+    "meaning": "to compensate balance out",
+    "type": "verb",
+    "example": "Urlaub kann den Stress ausgleichen.",
+    "perfect": "hat ausgeglichen",
+    "reflexive": null
+  },
+  {
+    "word": "in Anspruch nehmen",
+    "meaning": "to make use of claim",
+    "type": "verb",
+    "example": "Sie nimmt die Elternzeit voll in Anspruch.",
+    "perfect": "hat in Anspruch genommen",
+    "reflexive": null
+  },
+  {
+    "word": "verantwortungsbewusst",
+    "meaning": "responsible conscientious",
+    "type": "adjective",
+    "example": "Eine gute Führungskraft ist verantwortungsbewusst.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "unternehmerisch",
+    "meaning": "entrepreneurial",
+    "type": "adjective",
+    "example": "Er denkt sehr unternehmerisch.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "tarifgebunden",
+    "meaning": "subject to a collective agreement",
+    "type": "adjective",
+    "example": "Das Unternehmen ist tarifgebunden.",
+    "perfect": null,
+    "reflexive": null
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "word": "durchführen",
+    "meaning": "to carry out",
+    "type": "verb",
+    "example": "Wir führen das Projekt durch.",
+    "perfect": "hat durchgeführt",
+    "reflexive": null
+  },
+  {
+    "word": "umsetzen",
+    "meaning": "to implement",
+    "type": "verb",
+    "example": "Wir setzen die Idee um.",
+    "perfect": "hat umgesetzt",
+    "reflexive": null
+  },
+  {
+    "word": "verbessern",
+    "meaning": "to improve",
+    "type": "verb",
+    "example": "Ich verbessere meine Deutschkenntnisse.",
+    "perfect": "hat verbessert",
+    "reflexive": null
+  },
+  {
+    "word": "analysieren",
+    "meaning": "to analyze",
+    "type": "verb",
+    "example": "Wir analysieren die Daten.",
+    "perfect": "hat analysiert",
+    "reflexive": null
+  },
+  {
+    "word": "bewerten",
+    "meaning": "to evaluate",
+    "type": "verb",
+    "example": "Ich bewerte die Ergebnisse.",
+    "perfect": "hat bewertet",
+    "reflexive": null
+  },
+  {
+    "word": "erfordern",
+    "meaning": "to require",
+    "type": "verb",
+    "example": "Das erfordert viel Zeit.",
+    "perfect": "hat erfordert",
+    "reflexive": null
+  },
+  {
+    "word": "darstellen",
+    "meaning": "to present",
+    "type": "verb",
+    "example": "Ich stelle die Ergebnisse dar.",
+    "perfect": "hat dargestellt",
+    "reflexive": null
+  },
+  {
+    "word": "beziehen",
+    "meaning": "to refer",
+    "type": "verb",
+    "example": "Ich beziehe mich auf den Bericht.",
+    "perfect": "hat bezogen",
+    "reflexive": null
+  },
+  {
+    "word": "überzeugen",
+    "meaning": "to convince",
+    "type": "verb",
+    "example": "Er überzeugt den Kunden.",
+    "perfect": "hat überzeugt",
+    "reflexive": null
+  },
+  {
+    "word": "feststellen",
+    "meaning": "to determine",
+    "type": "verb",
+    "example": "Wir stellen ein Problem fest.",
+    "perfect": "hat festgestellt",
+    "reflexive": null
+  },
+  {
+    "word": "Maßnahme",
+    "meaning": "measure/action",
+    "type": "noun",
+    "example": "Wir treffen eine Maßnahme.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Zusammenhang",
+    "meaning": "connection",
+    "type": "noun",
+    "example": "Der Zusammenhang ist klar.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Einfluss",
+    "meaning": "influence",
+    "type": "noun",
+    "example": "Das hat großen Einfluss.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Bedingung",
+    "meaning": "condition",
+    "type": "noun",
+    "example": "Das ist eine wichtige Bedingung.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Vorteil",
+    "meaning": "advantage",
+    "type": "noun",
+    "example": "Das ist ein großer Vorteil.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Nachteil",
+    "meaning": "disadvantage",
+    "type": "noun",
+    "example": "Das ist ein Nachteil.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Verantwortung",
+    "meaning": "responsibility",
+    "type": "noun",
+    "example": "Ich übernehme Verantwortung.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Leistung",
+    "meaning": "performance",
+    "type": "noun",
+    "example": "Die Leistung ist gut.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Ergebnis",
+    "meaning": "result",
+    "type": "noun",
+    "example": "Das Ergebnis ist positiv.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Entwicklung",
+    "meaning": "development",
+    "type": "noun",
+    "example": "Die Entwicklung ist schnell.",
+    "perfect": null,
+    "reflexive": null
+  }
+]

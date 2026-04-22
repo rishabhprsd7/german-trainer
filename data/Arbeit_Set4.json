@@ -1,0 +1,226 @@
+[
+  {
+    "word": "Beförderung",
+    "meaning": "promotion",
+    "type": "noun",
+    "example": "Sie freut sich über die Beförderung.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Führungskraft",
+    "meaning": "manager executive",
+    "type": "noun",
+    "example": "Die Führungskraft leitet das Team.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Personalabteilung",
+    "meaning": "HR department",
+    "type": "noun",
+    "example": "Die Personalabteilung bearbeitet den Antrag.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Arbeitszeugnis",
+    "meaning": "employment reference letter",
+    "type": "noun",
+    "example": "Ich bekomme ein gutes Arbeitszeugnis.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Dienstreise",
+    "meaning": "business trip",
+    "type": "noun",
+    "example": "Nächste Woche mache ich eine Dienstreise.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Arbeitsbelastung",
+    "meaning": "workload",
+    "type": "noun",
+    "example": "Die Arbeitsbelastung ist sehr hoch.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Bewerbungsunterlagen",
+    "meaning": "application documents",
+    "type": "noun",
+    "example": "Bitte schicken Sie Ihre Bewerbungsunterlagen.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Teamarbeit",
+    "meaning": "teamwork",
+    "type": "noun",
+    "example": "Teamarbeit ist in diesem Beruf wichtig.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Homeoffice",
+    "meaning": "working from home",
+    "type": "noun",
+    "example": "Ich arbeite heute im Homeoffice.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Arbeitnehmer",
+    "meaning": "employee",
+    "type": "noun",
+    "example": "Der Arbeitnehmer hat Rechte.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Gehaltserhöhung",
+    "meaning": "salary raise",
+    "type": "noun",
+    "example": "Ich bitte um eine Gehaltserhöhung.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Sitzung",
+    "meaning": "session formal meeting",
+    "type": "noun",
+    "example": "Die Sitzung beginnt um zehn Uhr.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Stellenanzeige",
+    "meaning": "job advertisement",
+    "type": "noun",
+    "example": "Ich habe eine Stellenanzeige gelesen.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Qualifikation",
+    "meaning": "qualification",
+    "type": "noun",
+    "example": "Die Qualifikation ist für die Stelle erforderlich.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Anforderung",
+    "meaning": "requirement",
+    "type": "noun",
+    "example": "Die Anforderungen sind sehr hoch.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "genehmigen",
+    "meaning": "to approve",
+    "type": "verb",
+    "example": "Der Chef genehmigt meinen Urlaub.",
+    "perfect": "hat genehmigt",
+    "reflexive": null
+  },
+  {
+    "word": "beantragen",
+    "meaning": "to apply for request",
+    "type": "verb",
+    "example": "Ich beantrage fünf Urlaubstage.",
+    "perfect": "hat beantragt",
+    "reflexive": null
+  },
+  {
+    "word": "koordinieren",
+    "meaning": "to coordinate",
+    "type": "verb",
+    "example": "Sie koordiniert das ganze Projekt.",
+    "perfect": "hat koordiniert",
+    "reflexive": null
+  },
+  {
+    "word": "delegieren",
+    "meaning": "to delegate",
+    "type": "verb",
+    "example": "Der Manager delegiert die Aufgaben.",
+    "perfect": "hat delegiert",
+    "reflexive": null
+  },
+  {
+    "word": "übernehmen",
+    "meaning": "to take over",
+    "type": "verb",
+    "example": "Kannst du diesen Auftrag übernehmen?",
+    "perfect": "hat übernommen",
+    "reflexive": null
+  },
+  {
+    "word": "ablehnen",
+    "meaning": "to reject decline",
+    "type": "verb",
+    "example": "Die Firma lehnt die Bewerbung ab.",
+    "perfect": "hat abgelehnt",
+    "reflexive": null
+  },
+  {
+    "word": "verschieben",
+    "meaning": "to postpone",
+    "type": "verb",
+    "example": "Wir verschieben die Besprechung auf morgen.",
+    "perfect": "hat verschoben",
+    "reflexive": null
+  },
+  {
+    "word": "anleiten",
+    "meaning": "to instruct guide",
+    "type": "verb",
+    "example": "Er leitet das neue Team an.",
+    "perfect": "hat angeleitet",
+    "reflexive": null
+  },
+  {
+    "word": "einspringen",
+    "meaning": "to fill in stand in",
+    "type": "verb",
+    "example": "Kannst du morgen für mich einspringen?",
+    "perfect": "ist eingesprungen",
+    "reflexive": null
+  },
+  {
+    "word": "weiterleiten",
+    "meaning": "to forward",
+    "type": "verb",
+    "example": "Bitte leite die E-Mail weiter.",
+    "perfect": "hat weitergeleitet",
+    "reflexive": null
+  },
+  {
+    "word": "leistungsfähig",
+    "meaning": "high-performing efficient",
+    "type": "adjective",
+    "example": "Das Team ist sehr leistungsfähig.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "zuverlässig",
+    "meaning": "reliable",
+    "type": "adjective",
+    "example": "Sie ist eine zuverlässige Mitarbeiterin.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "eigenverantwortlich",
+    "meaning": "acting on ones own responsibility",
+    "type": "adjective",
+    "example": "Er arbeitet sehr eigenverantwortlich.",
+    "perfect": null,
+    "reflexive": null
+  }
+]

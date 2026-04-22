@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Learn More</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<div class="top-bar">
+    <a href="/card" class="nav-btn">← Back to Card</a>
+</div>
+
+<div class="container">
+    <div class="card">
+
+        <!-- WORD -->
+        <h2>{{ word }}</h2>
+
+        <!-- MEANING -->
+        <p class="meaning">
+            {{ meaning }}
+        </p>
+
+        <!-- EXAMPLE -->
+        {% if example %}
+        <p class="example">
+            {{ example }}
+        </p>
+        {% endif %}
+
+        <hr>
+
+        <!-- PERFECT -->
+        {% if perfect %}
+        <div class="info-box perfect-box">
+            <span>Perfect</span>
+            <strong>{{ perfect }}</strong>
+        </div>
+        {% endif %}
+
+        <!-- REFLEXIVE -->
+        {% if reflexive %}
+        <div class="info-box reflexive-box">
+            <span>Reflexive</span>
+            <strong>{{ reflexive }}</strong>
+        </div>
+        {% endif %}
+
+    </div>
+</div>
+
+</body>
+</html>

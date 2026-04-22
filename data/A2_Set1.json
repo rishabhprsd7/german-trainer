@@ -1,0 +1,162 @@
+[
+  {
+    "word": "besuchen",
+    "meaning": "to visit",
+    "type": "verb",
+    "example": "Ich besuche meine Freunde.",
+    "perfect": "hat besucht",
+    "reflexive": null
+  },
+  {
+    "word": "entscheiden",
+    "meaning": "to decide",
+    "type": "verb",
+    "example": "Ich entscheide mich schnell.",
+    "perfect": "hat entschieden",
+    "reflexive": "sich"
+  },
+  {
+    "word": "vergessen",
+    "meaning": "to forget",
+    "type": "verb",
+    "example": "Ich vergesse oft Namen.",
+    "perfect": "hat vergessen",
+    "reflexive": null
+  },
+  {
+    "word": "beginnen",
+    "meaning": "to begin",
+    "type": "verb",
+    "example": "Der Kurs beginnt um 9 Uhr.",
+    "perfect": "hat begonnen",
+    "reflexive": null
+  },
+  {
+    "word": "erklären",
+    "meaning": "to explain",
+    "type": "verb",
+    "example": "Er erklärt die Aufgabe.",
+    "perfect": "hat erklärt",
+    "reflexive": null
+  },
+  {
+    "word": "hoffen",
+    "meaning": "to hope",
+    "type": "verb",
+    "example": "Ich hoffe auf gutes Wetter.",
+    "perfect": "hat gehofft",
+    "reflexive": null
+  },
+  {
+    "word": "versuchen",
+    "meaning": "to try",
+    "type": "verb",
+    "example": "Ich versuche es noch einmal.",
+    "perfect": "hat versucht",
+    "reflexive": null
+  },
+  {
+    "word": "ändern",
+    "meaning": "to change",
+    "type": "verb",
+    "example": "Ich ändere meinen Plan.",
+    "perfect": "hat geändert",
+    "reflexive": null
+  },
+  {
+    "word": "warten",
+    "meaning": "to wait",
+    "type": "verb",
+    "example": "Ich warte auf den Bus.",
+    "perfect": "hat gewartet",
+    "reflexive": null
+  },
+  {
+    "word": "antworten",
+    "meaning": "to answer",
+    "type": "verb",
+    "example": "Er antwortet schnell.",
+    "perfect": "hat geantwortet",
+    "reflexive": null
+  },
+  {
+    "word": "Plan",
+    "meaning": "plan",
+    "type": "noun",
+    "example": "Ich habe einen Plan.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Reise",
+    "meaning": "journey",
+    "type": "noun",
+    "example": "Die Reise war schön.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Problem",
+    "meaning": "problem",
+    "type": "noun",
+    "example": "Das Problem ist schwer.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Lösung",
+    "meaning": "solution",
+    "type": "noun",
+    "example": "Die Lösung ist einfach.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Zeitung",
+    "meaning": "newspaper",
+    "type": "noun",
+    "example": "Ich lese die Zeitung.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Woche",
+    "meaning": "week",
+    "type": "noun",
+    "example": "Die Woche ist lang.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Monat",
+    "meaning": "month",
+    "type": "noun",
+    "example": "Ein Monat ist schnell vorbei.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Jahr",
+    "meaning": "year",
+    "type": "noun",
+    "example": "Das Jahr ist neu.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Termin",
+    "meaning": "appointment",
+    "type": "noun",
+    "example": "Ich habe einen Termin.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Freizeit",
+    "meaning": "free time",
+    "type": "noun",
+    "example": "In meiner Freizeit lese ich.",
+    "perfect": null,
+    "reflexive": null
+  }
+]

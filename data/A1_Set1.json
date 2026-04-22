@@ -1,0 +1,162 @@
+[
+  {
+    "word": "Haus",
+    "meaning": "house",
+    "type": "noun",
+    "example": "Das Haus ist groß.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Wasser",
+    "meaning": "water",
+    "type": "noun",
+    "example": "Ich trinke Wasser.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Brot",
+    "meaning": "bread",
+    "type": "noun",
+    "example": "Ich esse Brot zum Frühstück.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Apfel",
+    "meaning": "apple",
+    "type": "noun",
+    "example": "Der Apfel ist rot.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Auto",
+    "meaning": "car",
+    "type": "noun",
+    "example": "Das Auto ist schnell.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "gehen",
+    "meaning": "to go",
+    "type": "verb",
+    "example": "Ich gehe nach Hause.",
+    "perfect": "ist gegangen",
+    "reflexive": null
+  },
+  {
+    "word": "kommen",
+    "meaning": "to come",
+    "type": "verb",
+    "example": "Er kommt heute.",
+    "perfect": "ist gekommen",
+    "reflexive": null
+  },
+  {
+    "word": "sehen",
+    "meaning": "to see",
+    "type": "verb",
+    "example": "Ich sehe dich.",
+    "perfect": "hat gesehen",
+    "reflexive": null
+  },
+  {
+    "word": "essen",
+    "meaning": "to eat",
+    "type": "verb",
+    "example": "Wir essen zusammen.",
+    "perfect": "hat gegessen",
+    "reflexive": null
+  },
+  {
+    "word": "trinken",
+    "meaning": "to drink",
+    "type": "verb",
+    "example": "Sie trinkt Tee.",
+    "perfect": "hat getrunken",
+    "reflexive": null
+  },
+  {
+    "word": "Freund",
+    "meaning": "friend",
+    "type": "noun",
+    "example": "Er ist mein Freund.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Familie",
+    "meaning": "family",
+    "type": "noun",
+    "example": "Meine Familie ist hier.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Buch",
+    "meaning": "book",
+    "type": "noun",
+    "example": "Ich lese ein Buch.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Stadt",
+    "meaning": "city",
+    "type": "noun",
+    "example": "Die Stadt ist groß.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "lernen",
+    "meaning": "to learn",
+    "type": "verb",
+    "example": "Ich lerne Deutsch.",
+    "perfect": "hat gelernt",
+    "reflexive": null
+  },
+  {
+    "word": "arbeiten",
+    "meaning": "to work",
+    "type": "verb",
+    "example": "Ich arbeite viel.",
+    "perfect": "hat gearbeitet",
+    "reflexive": null
+  },
+  {
+    "word": "spielen",
+    "meaning": "to play",
+    "type": "verb",
+    "example": "Kinder spielen draußen.",
+    "perfect": "hat gespielt",
+    "reflexive": null
+  },
+  {
+    "word": "machen",
+    "meaning": "to domake",
+    "type": "verb",
+    "example": "Ich mache meine Arbeit.",
+    "perfect": "hat gemacht",
+    "reflexive": null
+  },
+  {
+    "word": "Tag",
+    "meaning": "day",
+    "type": "noun",
+    "example": "Heute ist ein schöner Tag.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Nacht",
+    "meaning": "night",
+    "type": "noun",
+    "example": "Die Nacht ist ruhig.",
+    "perfect": null,
+    "reflexive": null
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "word": "Arbeit",
+    "meaning": "work",
+    "type": "noun",
+    "example": "Ich habe Arbeit.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Job",
+    "meaning": "job",
+    "type": "noun",
+    "example": "Ich suche einen Job.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Büro",
+    "meaning": "office",
+    "type": "noun",
+    "example": "Ich bin im Büro.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Chef",
+    "meaning": "boss",
+    "type": "noun",
+    "example": "Mein Chef ist nett.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Chefin",
+    "meaning": "boss female",
+    "type": "noun",
+    "example": "Die Chefin ist streng.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Kollege",
+    "meaning": "colleague male",
+    "type": "noun",
+    "example": "Der Kollege ist freundlich.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Kollegin",
+    "meaning": "colleague female",
+    "type": "noun",
+    "example": "Die Kollegin hilft mir.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Firma",
+    "meaning": "company",
+    "type": "noun",
+    "example": "Die Firma ist groß.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Geld",
+    "meaning": "money",
+    "type": "noun",
+    "example": "Ich brauche Geld.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Pause",
+    "meaning": "break",
+    "type": "noun",
+    "example": "Wir machen eine Pause.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Telefon",
+    "meaning": "telephone",
+    "type": "noun",
+    "example": "Das Telefon klingelt.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "E-Mail",
+    "meaning": "email",
+    "type": "noun",
+    "example": "Ich schreibe eine E-Mail.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Computer",
+    "meaning": "computer",
+    "type": "noun",
+    "example": "Der Computer ist neu.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Tisch",
+    "meaning": "desk table",
+    "type": "noun",
+    "example": "Ich sitze am Tisch.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Stuhl",
+    "meaning": "chair",
+    "type": "noun",
+    "example": "Der Stuhl ist bequem.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "arbeiten",
+    "meaning": "to work",
+    "type": "verb",
+    "example": "Ich arbeite jeden Tag.",
+    "perfect": "hat gearbeitet",
+    "reflexive": null
+  },
+  {
+    "word": "kommen",
+    "meaning": "to come",
+    "type": "verb",
+    "example": "Er kommt pünktlich.",
+    "perfect": "ist gekommen",
+    "reflexive": null
+  },
+  {
+    "word": "gehen",
+    "meaning": "to go",
+    "type": "verb",
+    "example": "Ich gehe ins Büro.",
+    "perfect": "ist gegangen",
+    "reflexive": null
+  },
+  {
+    "word": "machen",
+    "meaning": "to do make",
+    "type": "verb",
+    "example": "Ich mache meine Arbeit.",
+    "perfect": "hat gemacht",
+    "reflexive": null
+  },
+  {
+    "word": "helfen",
+    "meaning": "to help",
+    "type": "verb",
+    "example": "Kannst du mir helfen?",
+    "perfect": "hat geholfen",
+    "reflexive": null
+  },
+  {
+    "word": "fragen",
+    "meaning": "to ask",
+    "type": "verb",
+    "example": "Ich frage den Chef.",
+    "perfect": "hat gefragt",
+    "reflexive": null
+  },
+  {
+    "word": "schreiben",
+    "meaning": "to write",
+    "type": "verb",
+    "example": "Ich schreibe eine E-Mail.",
+    "perfect": "hat geschrieben",
+    "reflexive": null
+  },
+  {
+    "word": "lesen",
+    "meaning": "to read",
+    "type": "verb",
+    "example": "Sie liest den Brief.",
+    "perfect": "hat gelesen",
+    "reflexive": null
+  },
+  {
+    "word": "anrufen",
+    "meaning": "to call",
+    "type": "verb",
+    "example": "Ich rufe die Firma an.",
+    "perfect": "hat angerufen",
+    "reflexive": null
+  },
+  {
+    "word": "pünktlich",
+    "meaning": "on time",
+    "type": "adjective",
+    "example": "Ich bin immer pünktlich.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "fleißig",
+    "meaning": "hardworking",
+    "type": "adjective",
+    "example": "Er ist sehr fleißig.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "nett",
+    "meaning": "nice kind",
+    "type": "adjective",
+    "example": "Die Kollegin ist sehr nett.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "groß",
+    "meaning": "big large",
+    "type": "adjective",
+    "example": "Die Firma ist groß.",
+    "perfect": null,
+    "reflexive": null
+  }
+]

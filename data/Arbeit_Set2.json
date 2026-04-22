@@ -1,0 +1,162 @@
+[
+  {
+    "word": "Zeit",
+    "meaning": "time",
+    "type": "noun",
+    "example": "Ich habe keine Zeit.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Mann",
+    "meaning": "man",
+    "type": "noun",
+    "example": "Der Mann ist groß.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Frau",
+    "meaning": "woman",
+    "type": "noun",
+    "example": "Die Frau ist nett.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Kind",
+    "meaning": "child",
+    "type": "noun",
+    "example": "Das Kind spielt.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "sprechen",
+    "meaning": "to speak",
+    "type": "verb",
+    "example": "Ich spreche Deutsch.",
+    "perfect": "hat gesprochen",
+    "reflexive": null
+  },
+  {
+    "word": "hören",
+    "meaning": "to hear",
+    "type": "verb",
+    "example": "Ich höre Musik.",
+    "perfect": "hat gehört",
+    "reflexive": null
+  },
+  {
+    "word": "fragen",
+    "meaning": "to ask",
+    "type": "verb",
+    "example": "Ich frage den Lehrer.",
+    "perfect": "hat gefragt",
+    "reflexive": null
+  },
+  {
+    "word": "antworten",
+    "meaning": "to answer",
+    "type": "verb",
+    "example": "Er antwortet schnell.",
+    "perfect": "hat geantwortet",
+    "reflexive": null
+  },
+  {
+    "word": "wohnen",
+    "meaning": "to live",
+    "type": "verb",
+    "example": "Ich wohne in Berlin.",
+    "perfect": "hat gewohnt",
+    "reflexive": null
+  },
+  {
+    "word": "bleiben",
+    "meaning": "to stay",
+    "type": "verb",
+    "example": "Ich bleibe hier.",
+    "perfect": "ist geblieben",
+    "reflexive": null
+  },
+  {
+    "word": "Zimmer",
+    "meaning": "room",
+    "type": "noun",
+    "example": "Das Zimmer ist klein.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Tür",
+    "meaning": "door",
+    "type": "noun",
+    "example": "Die Tür ist offen.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Fenster",
+    "meaning": "window",
+    "type": "noun",
+    "example": "Das Fenster ist zu.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "kaufen",
+    "meaning": "to buy",
+    "type": "verb",
+    "example": "Ich kaufe Brot.",
+    "perfect": "hat gekauft",
+    "reflexive": null
+  },
+  {
+    "word": "verkaufen",
+    "meaning": "to sell",
+    "type": "verb",
+    "example": "Er verkauft Autos.",
+    "perfect": "hat verkauft",
+    "reflexive": null
+  },
+  {
+    "word": "bringen",
+    "meaning": "to bring",
+    "type": "verb",
+    "example": "Ich bringe das Buch.",
+    "perfect": "hat gebracht",
+    "reflexive": null
+  },
+  {
+    "word": "holen",
+    "meaning": "to fetch",
+    "type": "verb",
+    "example": "Ich hole dich ab.",
+    "perfect": "hat geholt",
+    "reflexive": null
+  },
+  {
+    "word": "lieben",
+    "meaning": "to love",
+    "type": "verb",
+    "example": "Ich liebe meine Familie.",
+    "perfect": "hat geliebt",
+    "reflexive": null
+  },
+  {
+    "word": "brauchen",
+    "meaning": "to need",
+    "type": "verb",
+    "example": "Ich brauche Hilfe.",
+    "perfect": "hat gebraucht",
+    "reflexive": null
+  },
+  {
+    "word": "finden",
+    "meaning": "to find",
+    "type": "verb",
+    "example": "Ich finde das gut.",
+    "perfect": "hat gefunden",
+    "reflexive": null
+  }
+]

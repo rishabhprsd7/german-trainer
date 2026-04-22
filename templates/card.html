@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Flashcard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
+    <script>
+        function playAudio(word) {
+            const speech = new SpeechSynthesisUtterance(word);
+            const voices = speechSynthesis.getVoices();
+            const germanVoice = voices.find(v => v.lang.startsWith("de"));
+
+            if (germanVoice) {
+                speech.voice = germanVoice;
+            }
+
+            speech.lang = "de-DE";
+            speech.rate = 0.9;
+
+            speechSynthesis.speak(speech);
+        }
+    </script>
+</head>
+
+<body>
+
+<div class="top-bar">
+    <a href="/" class="nav-btn">← Home</a>
+</div>
+
+<div class="container">
+    <div class="card">
+
+        <p><b>Level:</b> {{ level }} | <b>Set:</b> {{ set_name }}</p>
+
+        <h2>{{ card.word }}</h2>
+
+        <p class="status {{ status }}">
+            {{ status | upper }}
+        </p>
+
+        <p><i>{{ card.type }}</i></p>
+
+        <!-- ✅ CLEAN BUTTON ROW -->
+        <div class="button-row">
+
+            <!-- LISTEN -->
+            <button onclick="playAudio('{{ card.word }}')" class="show-btn">
+                🔊 Listen
+            </button>
+
+            <!-- SHOW MEANING (BACKEND CONTROLLED) -->
+            <form method="POST" style="display:inline;">
+                <button class="show-btn" name="action" value="show_meaning">
+                    Meaning
+                </button>
+            </form>
+
+            <!-- LEARN -->
+            <a href="/learn/{{ card.word }}">
+                <button type="button" class="show-btn">📘 Learn</button>
+            </a>
+
+        </div>
+
+        <!-- ✅ CLEAN MEANING BOX -->
+        {% if show_meaning %}
+        <div class="meaning-box">
+            <p>{{ card.meaning }}</p>
+
+            {% if card.example %}
+                <hr>
+                <p class="example">{{ card.example }}</p>
+            {% endif %}
+        </div>
+        {% endif %}
+
+        <!-- ✅ ANSWER BUTTONS -->
+        <form method="POST" class="answer-form">
+            <button class="know" name="result" value="know">✔ I knew it</button>
+            <button class="dont" name="result" value="dont">✖ I didn’t know</button>
+        </form>
+
+    </div>
+</div>
+
+</body>
+</html>

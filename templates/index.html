@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>German Trainer</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<div class="container">
+
+    <h1 class="title">🇩🇪 German Vocabulary Trainer</h1>
+    <p class="subtitle">Choose your level to start learning</p>
+
+    <!-- LEVEL CARDS -->
+    <div class="grid">
+        {% for level in sets %}
+        <div class="level-card" onclick="selectLevel('{{ level }}')">
+            <h2>{{ level }}</h2>
+        </div>
+        {% endfor %}
+    </div>
+
+    <!-- SET CARDS -->
+    <div id="setsContainer" style="margin-top:30px; display:none;">
+        <h2 id="selectedLevelTitle"></h2>
+
+        <div class="grid" id="setsGrid">
+        </div>
+    </div>
+
+</div>
+
+<!-- FORM (hidden, used for POST) -->
+<form method="POST" id="hiddenForm" style="display:none;">
+    <input type="hidden" name="level" id="formLevel">
+    <input type="hidden" name="set" id="formSet">
+</form>
+
+<!-- DASHBOARD BUTTON -->
+<div style="text-align:center; margin-top:30px;">
+    <a href="/dashboard">
+        <button class="secondary-btn">📊 View Dashboard</button>
+    </a>
+</div>
+
+<script>
+    const setsData = {{ sets | tojson }};
+
+    function selectLevel(level) {
+        document.getElementById("setsContainer").style.display = "block";
+        document.getElementById("selectedLevelTitle").innerText = "Level " + level;
+
+        const setsGrid = document.getElementById("setsGrid");
+        setsGrid.innerHTML = "";
+
+        setsData[level].forEach(set => {
+            const div = document.createElement("div");
+            div.className = "set-card";
+            div.innerText = set;
+
+            div.onclick = function() {
+                startSet(level, set);
+            };
+
+            setsGrid.appendChild(div);
+        });
+    }
+
+    function startSet(level, set) {
+        document.getElementById("formLevel").value = level;
+        document.getElementById("formSet").value = set;
+        document.getElementById("hiddenForm").submit();
+    }
+</script>
+
+</body>
+</html>

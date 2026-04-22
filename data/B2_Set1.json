@@ -1,0 +1,162 @@
+[
+  {
+    "word": "dennoch",
+    "meaning": "nevertheless",
+    "type": "adverb",
+    "example": "Es regnet, dennoch gehe ich raus.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Voraussetzung",
+    "meaning": "requirement",
+    "type": "noun",
+    "example": "Das ist eine Voraussetzung.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "beeinflussen",
+    "meaning": "to influence",
+    "type": "verb",
+    "example": "Das beeinflusst meine Entscheidung.",
+    "perfect": "hat beeinflusst",
+    "reflexive": null
+  },
+  {
+    "word": "herausfordern",
+    "meaning": "to challenge",
+    "type": "verb",
+    "example": "Die Aufgabe fordert mich heraus.",
+    "perfect": "hat herausgefordert",
+    "reflexive": null
+  },
+  {
+    "word": "verantwortlich",
+    "meaning": "responsible",
+    "type": "adjective",
+    "example": "Ich bin dafür verantwortlich.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "entwickeln",
+    "meaning": "to develop",
+    "type": "verb",
+    "example": "Wir entwickeln neue Ideen.",
+    "perfect": "hat entwickelt",
+    "reflexive": null
+  },
+  {
+    "word": "ermöglichen",
+    "meaning": "to enable",
+    "type": "verb",
+    "example": "Das ermöglicht neue Chancen.",
+    "perfect": "hat ermöglicht",
+    "reflexive": null
+  },
+  {
+    "word": "vermeiden",
+    "meaning": "to avoid",
+    "type": "verb",
+    "example": "Ich vermeide Fehler.",
+    "perfect": "hat vermieden",
+    "reflexive": null
+  },
+  {
+    "word": "erreichen",
+    "meaning": "to achieve",
+    "type": "verb",
+    "example": "Ich erreiche mein Ziel.",
+    "perfect": "hat erreicht",
+    "reflexive": null
+  },
+  {
+    "word": "vergleichen",
+    "meaning": "to compare",
+    "type": "verb",
+    "example": "Ich vergleiche die Ergebnisse.",
+    "perfect": "hat verglichen",
+    "reflexive": null
+  },
+  {
+    "word": "Analyse",
+    "meaning": "analysis",
+    "type": "noun",
+    "example": "Die Analyse ist wichtig.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Fähigkeit",
+    "meaning": "ability",
+    "type": "noun",
+    "example": "Das ist eine wichtige Fähigkeit.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Kenntnis",
+    "meaning": "knowledge",
+    "type": "noun",
+    "example": "Ich habe gute Kenntnisse.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Situation",
+    "meaning": "situation",
+    "type": "noun",
+    "example": "Die Situation ist schwierig.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Entwicklung",
+    "meaning": "development",
+    "type": "noun",
+    "example": "Die Entwicklung ist schnell.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "System",
+    "meaning": "system",
+    "type": "noun",
+    "example": "Das System funktioniert gut.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Struktur",
+    "meaning": "structure",
+    "type": "noun",
+    "example": "Die Struktur ist klar.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Prozess",
+    "meaning": "process",
+    "type": "noun",
+    "example": "Der Prozess dauert lange.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Ergebnis",
+    "meaning": "result",
+    "type": "noun",
+    "example": "Das Ergebnis ist gut.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Fortschritt",
+    "meaning": "progress",
+    "type": "noun",
+    "example": "Ich sehe Fortschritt.",
+    "perfect": null,
+    "reflexive": null
+  }
+]

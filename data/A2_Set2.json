@@ -1,0 +1,162 @@
+[
+  {
+    "word": "einladen",
+    "meaning": "to invite",
+    "type": "verb",
+    "example": "Ich lade dich ein.",
+    "perfect": "hat eingeladen",
+    "reflexive": null
+  },
+  {
+    "word": "erreichen",
+    "meaning": "to reach",
+    "type": "verb",
+    "example": "Ich erreiche das Ziel.",
+    "perfect": "hat erreicht",
+    "reflexive": null
+  },
+  {
+    "word": "erinnern",
+    "meaning": "to remember",
+    "type": "verb",
+    "example": "Ich erinnere mich daran.",
+    "perfect": "hat erinnert",
+    "reflexive": null
+  },
+  {
+    "word": "verkaufen",
+    "meaning": "to sell",
+    "type": "verb",
+    "example": "Er verkauft Bücher.",
+    "perfect": "hat verkauft",
+    "reflexive": null
+  },
+  {
+    "word": "kaufen",
+    "meaning": "to buy",
+    "type": "verb",
+    "example": "Ich kaufe Obst.",
+    "perfect": "hat gekauft",
+    "reflexive": null
+  },
+  {
+    "word": "benutzen",
+    "meaning": "to use",
+    "type": "verb",
+    "example": "Ich benutze den Computer.",
+    "perfect": "hat benutzt",
+    "reflexive": null
+  },
+  {
+    "word": "lernen",
+    "meaning": "to learn",
+    "type": "verb",
+    "example": "Ich lerne Deutsch.",
+    "perfect": "hat gelernt",
+    "reflexive": null
+  },
+  {
+    "word": "arbeiten",
+    "meaning": "to work",
+    "type": "verb",
+    "example": "Ich arbeite viel.",
+    "perfect": "hat gearbeitet",
+    "reflexive": null
+  },
+  {
+    "word": "sprechen",
+    "meaning": "to speak",
+    "type": "verb",
+    "example": "Ich spreche langsam.",
+    "perfect": "hat gesprochen",
+    "reflexive": null
+  },
+  {
+    "word": "hören",
+    "meaning": "to hear",
+    "type": "verb",
+    "example": "Ich höre Musik.",
+    "perfect": "hat gehört",
+    "reflexive": null
+  },
+  {
+    "word": "Arbeit",
+    "meaning": "work",
+    "type": "noun",
+    "example": "Die Arbeit ist schwer.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Sprache",
+    "meaning": "language",
+    "type": "noun",
+    "example": "Deutsch ist eine Sprache.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Land",
+    "meaning": "country",
+    "type": "noun",
+    "example": "Deutschland ist ein Land.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Leute",
+    "meaning": "people",
+    "type": "noun",
+    "example": "Viele Leute sind hier.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Weg",
+    "meaning": "waypath",
+    "type": "noun",
+    "example": "Der Weg ist lang.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Ort",
+    "meaning": "place",
+    "type": "noun",
+    "example": "Das ist ein schöner Ort.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Frage",
+    "meaning": "question",
+    "type": "noun",
+    "example": "Ich habe eine Frage.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Antwort",
+    "meaning": "answer",
+    "type": "noun",
+    "example": "Die Antwort ist richtig.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Zeit",
+    "meaning": "time",
+    "type": "noun",
+    "example": "Die Zeit läuft schnell.",
+    "perfect": null,
+    "reflexive": null
+  },
+  {
+    "word": "Tag",
+    "meaning": "day",
+    "type": "noun",
+    "example": "Der Tag ist schön.",
+    "perfect": null,
+    "reflexive": null
+  }
+]
