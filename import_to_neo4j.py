@@ -2,9 +2,9 @@ from neo4j import GraphDatabase
 import json
 import os
 
-URI = "bolt://localhost:7687"
-USER = "neo4j"
-PASSWORD = "german-db"
+URI = os.getenv("NEO4J_URI")
+USER = os.getenv("NEO4J_USERNAME")
+PASSWORD = os.getenv("NEO4J_PASSWORD")
 
 DATA_FOLDER = "data"
 
