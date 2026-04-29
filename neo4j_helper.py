@@ -20,14 +20,14 @@ def run_query(query, parameters=None):
 def get_word_details(word):
     query = """
     MATCH (v:Word)
-    WHERE toLower(v.word) = toLower($word)
+    WHERE toLower(v.name) = toLower($word)
 
-    RETURN v.word AS word,
+    RETURN v.name AS word,
            v.meaning AS meaning,
            v.type AS type,
            v.example AS example,
-           v.perfect AS perfect,
-           v.reflexive AS reflexive
+           v.level AS level,
+           v.set AS set
     """
 
     result = run_query(query, {"word": word})
