@@ -22,17 +22,21 @@ def get_word_details(word):
     MATCH (v:Word)
     WHERE toLower(v.name) = toLower($word)
 
-    RETURN v.name AS word,
-           v.meaning AS meaning,
-           v.type AS type,
-           v.example AS example,
-           v.level AS level,
-           v.set AS set
+    RETURN {
+        word: v.name,
+        meaning: coalesce(v.meaning, ""),
+        type: coalesce(v.type, ""),
+        example: coalesce(v.example, ""),
+        perfect: coalesce(v.perfect, ""),
+        reflexive: coalesce(v.reflexive, ""),
+        level: coalesce(v.level, ""),
+        set: coalesce(v.set, "")
+    } AS data
     """
 
     result = run_query(query, {"word": word})
 
     if result:
-        return result[0]
+        return result[0]["data"]
 
     return None
