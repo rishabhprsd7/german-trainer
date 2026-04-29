@@ -19,7 +19,9 @@ def run_query(query, parameters=None):
 
 def get_word_details(word):
     query = """
-    MATCH (v:Vocabulary {word: $word})
+    MATCH (v:Word)
+    WHERE toLower(v.word) = toLower($word)
+
     RETURN v.word AS word,
            v.meaning AS meaning,
            v.type AS type,
